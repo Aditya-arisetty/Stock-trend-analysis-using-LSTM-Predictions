@@ -1,2 +1,2 @@
-Stock trend analysis using LSTM predictions with Streamlit deployment
+# Stock trend analysis using LSTM predictions with Streamlit deployment
 
